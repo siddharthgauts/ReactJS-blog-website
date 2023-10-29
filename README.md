@@ -1,5 +1,5 @@
 <h1>ReactJS blog website</h1>
-<h3>Checkout: https://react-blog-sid-master.vercel.app/</h3>
+<h3>Site link: https://react-blog-sid-master.vercel.app/</h3>
 
 **Screenshots**
 <br>

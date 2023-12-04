@@ -6,7 +6,7 @@ const Footer = () => {
     <>
       <footer>
         <div className='para'>
-          <p>© 2022 GorkCoder - All Rights Reserved.</p>
+          <p>© 2023 Siddharth - All Rights Reserved.</p>
         </div>
         <div className='icon'>
           <i className='fab fa-facebook-f'></i>

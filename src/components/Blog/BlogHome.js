@@ -8,7 +8,7 @@ const BlogHome = () => {
   const data = [
     {
       id: 1,
-      titleOne: "YOU CAN CHANGE THE WORLD",
+      titleOne: "NADYA CAN CHANGE THE WORLD",
       titletwo: "STRONG STYLE",
       paraOne: "How Women are Redirecting Hollywood",
       paraTwo: "New Ways to Wear Denim Belt Bags make a Comeback",
